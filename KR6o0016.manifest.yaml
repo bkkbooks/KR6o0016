@@ -1,0 +1,87 @@
+canonical_identifier: bkk:krp/KR6o0016/v1
+canonical_location: https://kanripo.org/bkk/KR6o0016/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
+assets:
+  parts:
+  - {seq: 1, filename: KR6o0016_001.yaml, hash: 'sha256:f3584f7f2c9d855db8cc59459513ab635960381d10701cb6a3b3d1f72845ba11'}
+  - {seq: 2, filename: KR6o0016_002.yaml, hash: 'sha256:2817d40a14c5581a297f79531c9bf15aa10c3957fc59f58d5f97a8329628a9cf'}
+  - {seq: 3, filename: KR6o0016_003.yaml, hash: 'sha256:9a7b183f4319fd2a5a7ad8e7ab65e422432bd725320e09f2b684d96d8f7f44e4'}
+  - {seq: 4, filename: KR6o0016_004.yaml, hash: 'sha256:fb19a72ad68ca552be0ad89c22c252f8932eed1f92ceefee5839658e79bba82b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6o0016_001.markers.yaml, hash: 'sha256:d1eca857925f630dba0d7f3890098717640193532086019658e0e4b126ba9010'}
+  - {seq: 2, role: markers, filename: assets/KR6o0016_002.markers.yaml, hash: 'sha256:2c01f953b1ca7742ff8940d657b39d83c1f36bf7bfd9d23ff60e8bceaca90de1'}
+  - {seq: 3, role: markers, filename: assets/KR6o0016_003.markers.yaml, hash: 'sha256:f379ad22ede5b8f5ef735e31c27e1e925461b469e0bde9205a93dcf8d831eeb7'}
+  - {seq: 4, role: markers, filename: assets/KR6o0016_004.markers.yaml, hash: 'sha256:2395d2df2669466952cd4d74741d7e1c35a7531998ea15127dc1f6193d6b62ef'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 13261
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 12421
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 10771
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 13851
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0016_T_004-0365b20.h.4
+    span:
+    - body
+    - 0
+    - 13851
+  label: 四種相違略私記下下
+  type: section
+  level: 2
+metadata:
+  title: 因明四種相違略私記
+  identifiers:
+    krp: KR6o0016
+    canon: T
+    vol: '69'
+    'no': '2277'
+  tags:
+    kr-categories: KR6o
+  source:
+    repository: tls-texts
+    path: data/tls/KR6o0016.xml
+  edition:
+    short: bkk
+hash: sha256:6c43a66e94dae6f6f460ba32087074e9d750d8a8d4b80afcb150e822ba0783da
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
+editions:
+- short: T
