@@ -13,7 +13,7 @@ assets:
   - {seq: 1, role: markers, filename: assets/KR6o0016_001-T.markers.yaml, hash: 'sha256:4281f09442091cb6dd2f744de2f7bace8b5468f6a8a67f3b730addf4d540d507'}
   - {seq: 2, role: markers, filename: assets/KR6o0016_002-T.markers.yaml, hash: 'sha256:baf14a60c327743d42ee1f4d2ac154d291067ebf6ab35f2e9dc45e1ead24990b'}
   - {seq: 3, role: markers, filename: assets/KR6o0016_003-T.markers.yaml, hash: 'sha256:97b616857901856bbd3e0c74f815aff7a39ca84c2e3c43cb070fafa435496713'}
-  - {seq: 4, role: markers, filename: assets/KR6o0016_004-T.markers.yaml, hash: 'sha256:31ce8d5e10d27be64ffd50809ac2a0921e42ce6e433fcceba4761f356d858cc8'}
+  - {seq: 4, role: markers, filename: assets/KR6o0016_004-T.markers.yaml, hash: 'sha256:66780cf10cc8785780fa367c86cb7696babfc7e424c99c03345c055ffd191ba8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -79,4 +79,4 @@ metadata:
     path: data/tls/KR6o0016.xml
   edition:
     short: T
-hash: sha256:f117cea048d4567e147b4bb57f80d96657eb4def21292cb1fb32dcb704ee55f5
+hash: sha256:52e08fea1b438b99bc8c8d14d5e1b217fe33297f20bbd336d4b15b86855bb6c1

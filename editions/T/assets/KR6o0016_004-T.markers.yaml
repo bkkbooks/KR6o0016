@@ -4331,10 +4331,11 @@ markers:
   - {type: indent, offset: 13823, content: 　, id: ''}
   - {type: indent, offset: 13823, content: 　, id: ''}
   - {type: punctuation, offset: 13823, content: (, id: ''}
+  - {type: voice, offset: 13823, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 13825, content: ), id: ''}
   - {type: line-break, offset: 13825, content: '', id: T_0375b14}
   - {type: line-break, offset: 13842, content: '', id: T_0375b15}
   - {type: line-break, offset: 13851, content: '', id: T_0375b16}
   - {type: paragraph-break, offset: 13851, content: '', id: KR6o0016_T_004-0365b21.p.4_end, role: close}
   back: []
-hash: sha256:31ce8d5e10d27be64ffd50809ac2a0921e42ce6e433fcceba4761f356d858cc8
+hash: sha256:66780cf10cc8785780fa367c86cb7696babfc7e424c99c03345c055ffd191ba8
